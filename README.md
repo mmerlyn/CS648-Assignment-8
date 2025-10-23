@@ -4,9 +4,7 @@
 
 This assignment implements a fully functional Employee Management System using JavaScript forms, DOM manipulation, and event handling. The application allows users to view, add, and delete employee records through an interactive web interface.
 
-## Project Description
-
-### The Employee Management System (50 points)
+## The Employee Management System
 
 Built a dynamic employee management application featuring:
 
